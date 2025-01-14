@@ -1,0 +1,15 @@
+{
+    "frames": {},
+    "meta": {
+        "app": "HKSN_Picture_lab",
+        "version": "1.0",
+        "image": "new_spritesheet.png",
+        "format": "RGBA",
+        "size": {
+            "w": 94,
+            "h": 130
+        },
+        "scale": "1",
+        "smartupdate": ""
+    }
+}
